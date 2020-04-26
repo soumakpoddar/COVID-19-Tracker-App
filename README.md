@@ -1,1 +1,5 @@
-###COVID-19 Tracker App
+# COVID-19 Tracker App
+This is a basic app developed using **ReactJS** to track the number of live cases of COVID-19 Worldwide...
+Pls star if U like it...
+[View the Live Site](https://covdtrak.netlify.app/)
+![](img/covid.png)
